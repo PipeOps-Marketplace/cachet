@@ -2,9 +2,6 @@
 
 Cachet is a beautiful and powerful open source status page system, a free replacement for services such as StatusPage.io, Status.io and others.
 
-[![Deploy on PipeOps](https://pub-a1fbf367a4cd458487cfa3f29154ac93.r2.dev/Default.png)](#)
-
-
 # Supporting Cachet
 
 Cachet is a BSD-3-licensed open source project. If you'd like to support future development, check out the Cachet Patreon campaign.
